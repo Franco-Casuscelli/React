@@ -14,10 +14,17 @@ function Header() {
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
                     <Link to='/about' className="nav-item nav-link"> About US </Link>
-                    <Link to='/nada' className="nav-item nav-link"> Hi </Link>
+                    <Link to='/nada' className="nav-item nav-link"> Products </Link>
+                    <Link to='/nada' className="nav-item nav-link"> Users </Link>
+                    <Link to='/nada' className="nav-item nav-link"> Not found </Link>
+                    
                     
                 </div>
             </div>
+            <div id="logo">
+                <img src="/img/LogoNuevo2.png" alt="COCO"></img>
+            </div>
+            
         </nav>
     </React.Fragment>
     

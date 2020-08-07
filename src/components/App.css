@@ -2,15 +2,33 @@
   text-align: center;
 }
 #base{
-  background-color: #faf6e9;
-    
+    background-image: url("/img/login.jpg");
+    background-size: 250px;  
     padding-top:30px;
-    height: 300px;
+    height: 940px;
     width: 100%;
+    border-bottom: 100px solid gray;
 }
 #error{
   margin-top: 20px;
- 
   text-align: center;
-
+}
+#logo img{
+    height: 50px;
+    mix-blend-mode:multiply;
+}
+#text{
+  padding-top: 100px;
+}
+#fotuli{
+  height: 350px;
+}
+#parrafo{
+  margin: auto;
+  text-align: center;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+#index img{
+  height: 750px;
 }

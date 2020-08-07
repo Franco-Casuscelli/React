@@ -5,20 +5,19 @@ import './App.css';
 function Home() {
 
   return (
-    <React.Fragment>
+    <React.Fragment >
         <div className="container-fluid" id='base'>
             <div className='row'>
-                <div className='col-2'>
+                <div className='col-1'>
 
                 </div>
-                <div className='col-8' >
-                INFO  TAMBIEN PODEMOS UTILIZAR EL NavLink, SON EXACTAMENTE
-            IGUALES PERO QUE DIFERENCIA TIENE QUE CUANDO ES 
-            SELECCIONADA POR DEFECTO SE LE AGREGA UNA CLASE 
-            Active AUTOMATICAMENTE, DE ESTA FORMA DESDE EL 
-            CSS PUEDO JUGAR CON DICHA CLASE
+                <div className='col-10' id='index'>
+                
+                <img src="/img/portada-local.png" className="d-block w-100" alt="1" />
+                    
+                
                 </div>
-                <div className='col-2'>
+                <div className='col-1'>
                     
                 </div>
             </div>

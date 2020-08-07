@@ -6,6 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 //insertamos estilo de boootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 ReactDOM.render(
   <React.StrictMode>
       <BrowserRouter>
@@ -14,5 +15,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
 
 
