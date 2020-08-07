@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+#base{
+  background-color: #faf6e9;
+    
+    padding-top:30px;
+    height: 300px;
+    width: 100%;
+}
+#error{
+  margin-top: 20px;
+ 
+  text-align: center;
+
+}
