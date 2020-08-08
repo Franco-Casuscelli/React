@@ -15,7 +15,7 @@ function Header() {
                 <div className="navbar-nav">
                     <Link to='/about' className="nav-item nav-link"> About US </Link>
                     <Link to='/nada' className="nav-item nav-link"> Products </Link>
-                    <Link to='/nada' className="nav-item nav-link"> Users </Link>
+                    <Link to='/users' className="nav-item nav-link"> Users </Link>
                     <Link to='/nada' className="nav-item nav-link"> Not found </Link>
                     
                     
