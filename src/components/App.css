@@ -32,3 +32,15 @@
 #index img{
   height: 750px;
 }
+#base1{
+  background-image: url("/img/login.jpg");
+    background-size: 250px;  
+    padding-top:30px;
+    height: 1200px;
+    width: 100%;
+    font-weight: 500;
+    border-bottom: 100px solid gray;
+}
+#nombres ul li{
+  font-weight: 500;
+}
